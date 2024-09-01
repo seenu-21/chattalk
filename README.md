@@ -87,6 +87,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ![chat4](https://github.com/user-attachments/assets/0e2a7b19-e397-4b78-a36f-a217c93da7dd)
 
+# Technologies Used! 
+
+HTML,CSS,JS,REACT JS,NODE JS,npm.
+
+# Features!
+
+1.Smooth user experience,
+2.Efficient storage and retrieval of user data and chat histories,
+3.Responsive interface with React.js, incorporating features such as real-time notifications,
+4.Rich chat functionalities including group chats, media sharing, message reactions, and read receipts.
+
+# License
+
+No license
+
+
+
 
 
 
