@@ -89,7 +89,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Technologies Used! 
 
-HTML,CSS,JS,REACT JS,NODE JS,npm.
+HTML,CSS,JS,REACT JS,NODE JS,MONGO DB and npm.
 
 # Features!
 
